@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PromptFlow
+.promptflow/
+.runs/
+
+# Environment variables
+.env
+.env.local
+
+# API keys and connections
+connection.yaml
+
+# Logs
+*.log
+
+# Temporary files
+/tmp/
+*.tmp

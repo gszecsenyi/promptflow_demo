@@ -1,0 +1,31 @@
+Vector Databases
+
+Vector databases are specialized databases designed to store and query high-dimensional 
+vectors efficiently. They are essential for modern AI applications, particularly those 
+involving similarity search and semantic search.
+
+How Vector Databases Work:
+Vector databases store data as high-dimensional vectors, which are mathematical 
+representations of data features. When you want to find similar items, the database 
+performs a similarity search by comparing vectors using metrics like cosine similarity, 
+Euclidean distance, or dot product.
+
+Key Concepts:
+- Embeddings: Dense vector representations of data (text, images, audio)
+- Similarity Search: Finding vectors closest to a query vector
+- Indexing: Techniques like HNSW, IVF to speed up searches
+- Approximate Nearest Neighbor (ANN): Trading accuracy for speed
+
+Use Cases:
+1. Semantic Search: Finding documents based on meaning rather than keywords
+2. Recommendation Systems: Finding similar products, content, or users
+3. Question Answering: Retrieving relevant context for LLM queries
+4. Image/Video Search: Finding visually similar content
+5. Anomaly Detection: Identifying outliers in high-dimensional data
+
+Popular vector databases include Pinecone, Weaviate, Milvus, Qdrant, and Chroma. 
+Many traditional databases like PostgreSQL (with pgvector) now support vector operations. 
+For smaller applications or prototyping, in-memory vector stores are often sufficient.
+
+Vector databases are a crucial component in RAG (Retrieval Augmented Generation) systems, 
+where they store document embeddings that are retrieved to provide context to LLMs.

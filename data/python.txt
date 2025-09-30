@@ -1,0 +1,18 @@
+Python Programming Language
+
+Python is a high-level, interpreted programming language with dynamic semantics. 
+It was created by Guido van Rossum and first released in 1991. Python's design 
+philosophy emphasizes code readability with its notable use of significant whitespace.
+
+Python supports multiple programming paradigms, including structured (particularly, 
+procedural), object-oriented, and functional programming. Python is dynamically typed 
+and garbage-collected. It has a comprehensive standard library, which is one of 
+Python's greatest strengths.
+
+Python is used for web development (server-side), software development, mathematics, 
+system scripting, data analysis, artificial intelligence, and machine learning. 
+Popular frameworks include Django for web development and TensorFlow for machine learning.
+
+Python's popularity has grown significantly in recent years, particularly in the fields 
+of data science and machine learning. It is consistently ranked as one of the top 
+programming languages in various developer surveys.

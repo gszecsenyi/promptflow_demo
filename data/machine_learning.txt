@@ -1,0 +1,24 @@
+Machine Learning Fundamentals
+
+Machine Learning (ML) is a subset of artificial intelligence that focuses on the 
+development of algorithms and statistical models that enable computer systems to 
+improve their performance on a specific task through experience.
+
+There are three main types of machine learning:
+
+1. Supervised Learning: The algorithm learns from labeled training data. Common 
+   applications include classification and regression problems. Examples include 
+   predicting house prices or classifying emails as spam.
+
+2. Unsupervised Learning: The algorithm learns from unlabeled data to find hidden 
+   patterns or intrinsic structures. Common techniques include clustering and 
+   dimensionality reduction.
+
+3. Reinforcement Learning: The algorithm learns by interacting with an environment, 
+   receiving rewards or penalties for actions taken. This approach is used in robotics, 
+   game playing, and autonomous systems.
+
+Popular machine learning libraries include scikit-learn for traditional ML algorithms, 
+TensorFlow and PyTorch for deep learning, and pandas for data manipulation. The field 
+has seen tremendous growth with applications in computer vision, natural language 
+processing, recommendation systems, and autonomous vehicles.
