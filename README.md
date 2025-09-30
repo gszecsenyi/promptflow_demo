@@ -2,6 +2,24 @@
 
 A demonstration project showcasing how to build a question-answering system using PromptFlow and an in-memory vector database. This project implements a simple RAG (Retrieval Augmented Generation) system that can answer questions based on a collection of documents.
 
+## Quick Links
+
+- [Quick Start Guide](QUICKSTART.md) - Get started in 5 minutes
+- [Usage Guide](USAGE.md) - Detailed PromptFlow usage instructions
+- [Example Script](example_vectordb.py) - Simple vector database usage
+
+## What You'll Learn
+
+This project demonstrates:
+- ✅ Building a custom in-memory vector database from scratch
+- ✅ Implementing semantic search using cosine similarity
+- ✅ Creating a PromptFlow flow for document Q&A
+- ✅ Retrieving relevant context for LLM prompts (RAG pattern)
+- ✅ Testing and validating AI applications
+- ✅ Working with embeddings and vector operations
+
+Perfect for developers who want to understand the fundamentals of vector databases and RAG systems!
+
 ## Features
 
 - **In-Memory Vector Database**: Custom implementation of a vector database (`vectordb.py`) for document similarity search
