@@ -1,0 +1,5 @@
+promptflow>=1.4.0
+promptflow-tools>=1.0.0
+numpy>=1.24.0
+openai>=1.0.0
+python-dotenv>=1.0.0

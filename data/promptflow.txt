@@ -1,0 +1,26 @@
+PromptFlow Overview
+
+PromptFlow is a development tool designed to streamline the entire development cycle of 
+AI applications powered by Large Language Models (LLMs). It provides a comprehensive 
+solution for creating, testing, and deploying LLM-based applications.
+
+Key Features:
+- Create flows that link LLMs, prompts, and Python tools together
+- Debug and iterate flows with ease
+- Evaluate flow quality and performance with larger datasets
+- Integrate testing and evaluation into CI/CD pipelines
+- Deploy flows to your chosen serving platform or integrate into your app's codebase
+
+PromptFlow supports various types of flows including standard flows, chat flows, and 
+evaluation flows. It provides a visual editor for designing flows and a command-line 
+interface for automation and CI/CD integration.
+
+The tool is particularly useful for:
+- Prototyping LLM applications quickly
+- Testing different prompts and parameters
+- Evaluating model outputs systematically
+- Building production-ready LLM applications
+- Creating RAG (Retrieval Augmented Generation) applications
+
+PromptFlow integrates well with Azure AI and can be used both locally and in the cloud. 
+It supports popular LLM providers including OpenAI, Azure OpenAI, and Hugging Face models.

@@ -1,0 +1,9 @@
+# Example connection configuration for PromptFlow
+# Copy this file to connection.yaml and fill in your API key
+
+$schema: https://azuremlschemas.azureedge.net/promptflow/latest/OpenAIConnection.schema.json
+name: open_ai_connection
+type: open_ai
+api_key: "your-openai-api-key-here"  # Replace with your actual API key
+organization: ""  # Optional: your OpenAI organization ID
+api_base: "https://api.openai.com/v1"  # Optional: custom API base URL
